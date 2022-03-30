@@ -17,6 +17,7 @@ public class CharacterBookDataSO : SerializedScriptableObject
     [Button("CollectCharacterData")]
     public void CollectCharacterData()
     {
+        characterDatas.Clear();
         characterDatas.AddRange(GetAllCharacterData());
     }
 

@@ -1,0 +1,38 @@
+{
+  "type": 9,
+  "controllers": {
+    "intimacy_system": {},
+    "slot_opacity": {},
+    "slot_color": {}
+  },
+  "motions": {
+    "start": [
+      {
+        "command": "set_skin 01"
+      }
+    ],
+    "idle": [
+      {
+        "file": "aim_idle"
+      }
+    ]
+  },
+  "options": {
+    "scale_factor": 0.07,
+    "position_x": 13.0,
+    "position_y": -8.0,
+    "edge_padding": false
+  },
+  "skeleton": "c010_cover_00.skel.bytes",
+  "atlases": [
+    {
+      "atlas": "c010_cover_00.atlas.txt",
+      "tex_names": [
+        "c010_cover_00_2"
+      ],
+      "textures": [
+        "c010_cover_00_2.png"
+      ]
+    }
+  ]
+}

@@ -22,6 +22,24 @@ MonoBehaviour:
     PrefabModifications: []
     SerializationNodes: []
   characterDatas:
+  - {fileID: 11400000, guid: 555365f098252e141abbd4cff4be3faf, type: 2}
+  - {fileID: 11400000, guid: 8cf868af7b73ffe4683d66730edd21e9, type: 2}
+  - {fileID: 11400000, guid: bda3cdffefa0a3f4b81a2bdcfd88417c, type: 2}
+  - {fileID: 11400000, guid: a720a8a3b74dcbf42ad3060e8de86551, type: 2}
   - {fileID: 11400000, guid: a51b3d213ed24104987ce1a6d673ba3f, type: 2}
+  - {fileID: 11400000, guid: 56629e05201ebb84bb84480d2c388c25, type: 2}
   - {fileID: 11400000, guid: b892e345e9170aa45ab4e13241ec6468, type: 2}
+  - {fileID: 11400000, guid: bb3ba8de1ee046a4890ace5d85dddcdf, type: 2}
+  - {fileID: 11400000, guid: 461820e589dbccc4eaeb543bcc3f766a, type: 2}
+  - {fileID: 11400000, guid: 99107394a82d67747ae4fa0c357c2251, type: 2}
+  - {fileID: 11400000, guid: 0fbb2692d43be5944890d90fd8d11177, type: 2}
   - {fileID: 11400000, guid: 1342a098049fcb6488303f2ac5ee7ecf, type: 2}
+  - {fileID: 11400000, guid: 8209b2acd2fb8ed44935ebd98b7ace1a, type: 2}
+  - {fileID: 11400000, guid: ce87ca9c9e699164f9ae70caea025270, type: 2}
+  - {fileID: 11400000, guid: e7b12c38bbe94564b9107b5eba9f50f8, type: 2}
+  - {fileID: 11400000, guid: 4074e4c15b3fff844b7ff53331e5aa55, type: 2}
+  - {fileID: 11400000, guid: 01a580ccdc15b484daea6cb59ed7b43f, type: 2}
+  - {fileID: 11400000, guid: 01df598b27885194696d406165a36673, type: 2}
+  - {fileID: 11400000, guid: 0d426d00ab6215843a097aea45496967, type: 2}
+  - {fileID: 11400000, guid: 81159633bd0553e449f4562c1de92589, type: 2}
+  - {fileID: 11400000, guid: b02c7acd9a665da4ea3f233403cd245b, type: 2}

@@ -1,0 +1,61 @@
+{
+  "type": 9,
+  "bounds": {
+    "width": 7.489223,
+    "height": 16.58845,
+    "center_x": 0.0,
+    "center_y": 8.0
+  },
+  "controllers": {
+    "intimacy_system": {},
+    "slot_opacity": {},
+    "slot_color": {}
+  },
+  "hit_areas": [
+    {
+      "name": "neck_1",
+      "id": "neck_1",
+      "motion": "tap",
+      "width": 10.0,
+      "height": 25.0,
+      "center_y": -6.0
+    }
+  ],
+  "motions": {
+    "start": [
+      {
+        "command": "set_skin 01"
+      }
+    ],
+    "idle": [
+      {
+        "file": "delight"
+      }
+    ],
+    "tap": [
+      {
+        "file": "action"
+      }
+    ]
+  },
+  "options": {
+    "scale_factor": 0.086,
+    "position_x": 13.0,
+    "position_y": -8.0,
+    "edge_padding": false
+  },
+  "skeleton": "TextAsset/c010_00.skel.bytes",
+  "atlases": [
+    {
+      "atlas": "TextAsset/c010_00.atlas.txt",
+      "tex_names": [
+        "c010_00",
+        "c010_00_2"
+      ],
+      "textures": [
+        "Texture2D/c010_00.png",
+        "Texture2D/c010_00_2.png"
+      ]
+    }
+  ]
+}
